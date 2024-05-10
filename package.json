@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Felipefsanos/class-validator-brazil"
   },
   "scripts": {
     "build": "rm -rf dist && rm -rf types && tsc --project tsconfig.build.json",
